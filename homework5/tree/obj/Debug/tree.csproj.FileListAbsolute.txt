@@ -1,0 +1,10 @@
+C:\Users\abc\source\repos\homework5\tree\bin\Debug\tree.exe.config
+C:\Users\abc\source\repos\homework5\tree\bin\Debug\tree.exe
+C:\Users\abc\source\repos\homework5\tree\bin\Debug\tree.pdb
+C:\Users\abc\source\repos\homework5\tree\obj\Debug\tree.csprojResolveAssemblyReference.cache
+C:\Users\abc\source\repos\homework5\tree\obj\Debug\tree.Form1.resources
+C:\Users\abc\source\repos\homework5\tree\obj\Debug\tree.Properties.Resources.resources
+C:\Users\abc\source\repos\homework5\tree\obj\Debug\tree.csproj.GenerateResource.Cache
+C:\Users\abc\source\repos\homework5\tree\obj\Debug\tree.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\homework5\tree\obj\Debug\tree.exe
+C:\Users\abc\source\repos\homework5\tree\obj\Debug\tree.pdb
