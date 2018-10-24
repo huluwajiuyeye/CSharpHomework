@@ -19,7 +19,7 @@ namespace Project1.Order.Tests
             a.id = "123";
             testList.Add(a);
             Assert.IsNotNull(testList);
-            Assert.IsNull(testList);
+    
         }
 
         [TestMethod()]
