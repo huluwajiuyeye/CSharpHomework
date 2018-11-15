@@ -35,9 +35,7 @@ namespace project1
         public Form1()
         {   
             InitializeComponent();
-            XslCompiledTransform trans = new XslCompiledTransform();
-            trans.Load(@"people.xsl");
-            trans.Transform(@"people.xml", @".\people.html");
+           
         //    try
         //    {
         //        XmlDocument doc = new XmlDocument();
@@ -113,6 +111,19 @@ namespace project1
         private void bindingSource1_CurrentChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            XslCompiledTransform trans = new XslCompiledTransform();
+            trans.Load(@"people.xsl");
+            trans.Transform(@"people.xml", @".\people.html");
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            try { System.Diagnostics.Process.Start("people.html"); }
+            catch { MessageBox.Show("请先生成文件", "提示", MessageBoxButtons.OK); };
         }
     }
 }

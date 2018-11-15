@@ -1,22 +1,6 @@
 <?xml version="1.0"?>
 <ArrayOfOrderDetail xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <OrderDetail>
-    <id>1</id>
-    <name>1</name>
-    <customer>1</customer>
-    <money>1</money>
-    <phonenumber>13333333333</phonenumber>
-    <ordernumber>20101111002</ordernumber>
-  </OrderDetail>
-  <OrderDetail>
-    <id>1</id>
-    <name>1</name>
-    <customer>1</customer>
-    <money>0</money>
-    <phonenumber>15897799979</phonenumber>
-    <ordernumber>20181212122</ordernumber>
-  </OrderDetail>
-  <OrderDetail>
     <id>123</id>
     <name>苹果</name>
     <customer>周星齐</customer>
@@ -31,5 +15,21 @@
     <money>150</money>
     <phonenumber>15629082232</phonenumber>
     <ordernumber>20181114002</ordernumber>
+  </OrderDetail>
+  <OrderDetail>
+    <id>001</id>
+    <name>征战者</name>
+    <customer>啧啧啧</customer>
+    <money>123</money>
+    <phonenumber>13111111111</phonenumber>
+    <ordernumber>20181115001</ordernumber>
+  </OrderDetail>
+  <OrderDetail>
+    <id>001</id>
+    <name>征战者</name>
+    <customer>啧啧啧</customer>
+    <money>12</money>
+    <phonenumber>13111111111</phonenumber>
+    <ordernumber>20181115002</ordernumber>
   </OrderDetail>
 </ArrayOfOrderDetail>
