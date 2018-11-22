@@ -1,0 +1,7 @@
+C:\Users\abc\source\repos\homework7\SimepleCrawler.cs\bin\Debug\SimepleCrawler.cs.exe.config
+C:\Users\abc\source\repos\homework7\SimepleCrawler.cs\bin\Debug\SimepleCrawler.cs.exe
+C:\Users\abc\source\repos\homework7\SimepleCrawler.cs\bin\Debug\SimepleCrawler.cs.pdb
+C:\Users\abc\source\repos\homework7\SimepleCrawler.cs\obj\Debug\SimepleCrawler.cs.csprojResolveAssemblyReference.cache
+C:\Users\abc\source\repos\homework7\SimepleCrawler.cs\obj\Debug\SimepleCrawler.cs.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\homework7\SimepleCrawler.cs\obj\Debug\SimepleCrawler.cs.exe
+C:\Users\abc\source\repos\homework7\SimepleCrawler.cs\obj\Debug\SimepleCrawler.cs.pdb

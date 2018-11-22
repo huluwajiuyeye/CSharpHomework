@@ -1,0 +1,547 @@
+﻿
+<!DOCTYPE HTML>
+<!--STATUS OK-->
+<html class="expanded">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<link rel="shortcut icon" href="https://www.baidu.com/cache/icon/favicon.ico" type="image/x-icon">
+<link rel="icon" sizes="any"  href="https://www.baidu.com/cache/icon/favicon.svg">
+<title>�����������Ͽ�רҵ���ϴ�ȫ_��Ʒ�Ŀ�</title>
+
+<meta name="keywords" content="�����������Ͽ��Ŀ⣬��Ʒ�Ŀ⣬������գ�רҵ�����ĵ�����������ĵ������������ĵ���IT/������ĵ�������������Ӧ���ĵ�������Ӫ���ĵ�������/�г��ĵ���ʵ���ĵ��ĵ����ܽ�/�㱨�ĵ�"/>
+<meta name="description" content="��Ʒ�Ŀ�����������Ͽ��Ŀ⣬Ϊ���ṩ���¡���ȫ����רҵ��������վ�Ʒ�ĵ���Ŀǰ�ѹ�����1063028���ĵ���������1.05�����û����������磬�ںϸ�����Ϸ���ԡ����ʶ����ͬ����������д����PPT��ơ��ƻ��顢�߻���������ģ��ȷ������棬����ȫ������һվʽ����
+                           "/>
+<style>
+    /*@require wkbgc:widget/ui/org_css_core/ui/base/base.css*/
+</style>
+<script type="text/javascript">!function(n){var t={},i={};i._data=t,i.get=function(n){return t[n]},i.set=function(n,i){if("string"==typeof n)t[n]=i;else for(var r in n)n.hasOwnProperty(r)&&(t[r]=n[r])},n.__fisData=i}(window);</script>
+<link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcommon/pkg/pkg_wkcommon_framework_v2_0783db7.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcommon/pkg/pkg_wkcommon_base_e6b29fe.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/ui/org_css_core/ui/base/base_cc30256.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/header/header_ed8f64c.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/org/org_head/org_head_b353b9d.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/org/left-intro/left-intro_6153bd5.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/org/left-doc-list/left-doc-list_108931b.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/org/left-rank/left-rank_f986ba0.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/org/jingpin-doc/jingpin-doc_c756c06.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/org/new-upload/new-upload_55320e2.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/org/doc-recommend/doc-recommend_86bb4f1.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/org/check-all-doc/check-all-doc_32b5bab.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/org/side_nav/side_nav_307cc22.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/widget/ui/share_box/share_box_0c63837.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkbgc/org/org_8655089.css" /></head>
+<body>
+
+
+
+<script>
+	(function(Data) {
+		var WkInfo = Data.get("WkInfo") || {};
+		var isLogin="";WkInfo.PageInfo={isLogin:!!isLogin,copyright:"",tpl:"wk_info",docTypeList:[["none",""],["doc","Word\u6587\u6863"],["xls","Excel\u8868\u683c"],["ppt","PPT\u6587\u7a3f"],["doc","Word\u6587\u6863"],["xls","Excel\u8868\u683c"],["ppt","PPT\u6587\u7a3f"],["pdf","pdf\u6587\u6863"],["txt","txt\u6587\u6863"],["wps","Word\uff08\u91d1\u5c71\uff09"],["et","Excel\uff08\u91d1\u5c71\uff09"],["dps","PPT\uff08\u91d1\u5c71\uff09"],["vsd","Visio\u7ed8\u56fe"],["rtf","rtf\u6587\u6863"],["pot","PPT\u6a21\u677f"],["pps","PPT\u653e\u6620"],["epub","ePub\u6587\u6863"]]};
+;
+				Data.set("WkInfo",WkInfo);
+	}(window.__fisData));
+</script>
+
+<div class="wk-other-new-cntent">
+<div class="user-bar user-bar-new">
+<ul class="inner">
+<li><a href="https://www.baidu.com/" class="logSend" data-logsend='{"send":["general","bdindex",{"login":1}]}' alog-action="userbar.loginbdhome">�ٶ���ҳ</a></li>
+<li>
+<a href="https://passport.baidu.com/v2/?login" id="login" class="logSend" data-logsend='{"send":["view","loginclick"]}' alog-action="userbar.login">��¼</a>
+</li>
+<li style="position: relative;">
+<a href="/cashier/browse/vipcashier?dqStatCode=topnav_joinvip&cashier_code=topnav_joinvip" target="_blank"
+                        title="�ٶȽ���VIP" style="height: auto;display: inline-block;" id="my-wkHome-vip-tips">
+<span class="wk-color-vip-red">����ٶȽ���VIP</span>
+</a>
+<div class="vip-tips-hover-div clearfix">
+<div class="vip-tips-hover-div-content">
+<ul>
+<li class="zywd-r">��רҵ�ĵ�������Ȩ</li>
+<li class="gxwd-r">&nbsp;�������ĵ�������Ȩ</li>
+<li class="mfzx-r">&nbsp;100Wƪ�ĵ����ר��</li>
+<li class="fuli-r">&nbsp;ÿ��齱���ָ���</li>
+</ul>
+<a target="_blank" class="log-xsend vip-tips-hover-gotocashier ljkt-btn-red" href="/cashier/browse/dispatch?dqStatCode=topnav_joinvip"
+                                data-logxsend="[1, 101547, {'index':0}]">������ͨ</a>
+</div>
+</div>
+</li>
+<li class="fankui"><a class="help-feedback">�������</a></li>
+<li><a href="/apps?fr=1011" target="_blank" alog-action="userbar.logoutapp">���ؿͻ���</a></li>
+</ul>
+</div>
+<div class="s_tab" alog-group="switch.productline">
+<a data-href="http://www.baidu.com" href="http://www.baidu.com/s?wd=word&fr=wenku" class="logSend " data-logsend='{"send":["general","toptablink",{"to":"webpage"}]}' wdfield="wd" onmousedown="setHeadUrl(this)">��ҳ</a>
+<a data-href="http://news.baidu.com" href="http://news.baidu.com/ns?word=word&tn=news&cl=2&rn=20&ct=1&fr=wenku" class="logSend" data-logsend='{"send":["general", "toptablink",{"to":"news"}]}' wdfield="word" onmousedown="setHeadUrl(this)">����</a>
+<a data-href="http://tieba.baidu.com" href="http://tieba.baidu.com/f?kw=word&fr=wenku" class="logSend " data-logsend='{"send":["general","toptablink",{"to":"tieba"}]}' wdfield="kw" onmousedown="setHeadUrl(this)">����</a>
+<a data-href="http://zhidao.baidu.com" href="http://zhidao.baidu.com/q?word=word&ct=17&pn=0&tn=ikaslist&rn=10&lm=0&fr=wenku" class="logSend" data-logsend='{"send":["general","toptablink",{"to":"zhidao"}]}' wdfield="word" onmousedown="setHeadUrl(this)">֪��</a>
+<a data-href="http://v.baidu.com" href="//www.baidu.com/sf/vsearch?pd=video&tn=vsearch&word=word&rsv_spt=15"  class="logSend " data-logsend='{"send":["general","toptablink",{"to":"video"}]}' wdfield="word" onmousedown="setHeadUrl(this)">��Ƶ</a>
+<a data-href="http://music.baidu.com" href="http://music.baidu.com/search?&fr=wenku&key=word" class="logSend " data-logsend='{"send":["general","toptablink",{"to":"music"}]}' wdfield="key" onmousedown="setHeadUrl(this)">����</a>
+<a data-href="http://image.baidu.com" href="http://image.baidu.com/i?ct=201326592&cl=2&nc=1&lm=-1&st=-1&tn=baiduimage&istype=2&fm=&pv=&z=0&word=word&fr=wenku" class="logSend " data-logsend='{"send":["general","toptablink",{"to":"image"}]}' wdfield="word" onmousedown="setHeadUrl(this)">ͼƬ</a>
+<a data-href="http://map.baidu.com" href="http://map.baidu.com/?newmap=1&ie=utf-8&s=s&wd=word&fr=wenku" class="logSend" data-logsend='{"send":["general","toptablink",{"to":"map"}]}' wdfield="wd" onmousedown="setHeadUrl(this)">��ͼ</a>
+<b>�Ŀ�</b>
+<b class="wk-right-line">|</b>
+</div>
+</div>
+<div id="vip-cms-doc-list" style="display:none;">
+<p class="pop-msg-text">�Ŀ�����н���ͼ�飬���᲻�����޾�Ʒ�������˫�ַ��ϣ��뼰ʱ����Ŷ��</p>                                                                
+<div class="pop-msg-new-book"> 
+<div class="pop-msg-book-recmd"> 
+<div class="pop-msg-recmd-link">
+<a href="//wenku.baidu.com/vip/list/104" target="_blank">���ù���</a>&nbsp&nbsp&nbsp
+<a href="//wenku.baidu.com/vip/list/101" target="_blank">ְ����־</a>
+</div>
+<span>������������Դ��ѳ���</span>
+</div>
+<a href="/trade/browse/cashier?type=2&fr=zhaohui" class="pop-msg-charge-btn">
+</a> 
+<div class="under-btn-tips">����һ���Ķ���Ա����ʡ24Ԫ��</div>
+</div>
+</div>
+
+<div id="hd">
+
+<div class="search_wrapper">
+<div class="search_box clearfix">
+<div class="logo-wrap">
+<img src="//wkstatic.bdimg.com/static/wkbgc/index/images/logo_fdc56c9.jpg" alt="">
+<a href="/jingpin" class="go-jingpin"></a>
+<a href="https://wenku.baidu.com/?from=logo" class="go-index"></a>
+</div>
+<form action="//wenku.baidu.com/search" name="ftop" id="topSearchBox" method="get">
+<span class="kw_btn_wr"><input id="kw" name="word" class="s_ipt" maxlength="256" tabindex="1" value="" data-default="" autocomplete="off"></span>
+<span class="s_btn_wr"><input type="submit" id="sb" value="�ٶ�һ��" class="s_btn"></span>
+<div class="g-sl">
+<label for="t_all">
+<input type="radio" name="lm" value="0" id="t_all" checked="">ȫ��</label>
+<label for="t_doc">
+<input type="radio" name="lm" value="1" id="t_doc">DOC</label>
+<label for="t_ppt">
+<input type="radio" name="lm" value="3" id="t_ppt">PPT</label>
+<label for="t_txt">
+<input type="radio" name="lm" value="5" id="t_txt">TXT</label>
+<label for="t_pdf">
+<input type="radio" name="lm" value="2" id="t_pdf">PDF</label>
+<label for="t_xls">
+<input type="radio" name="lm" value="4" id="t_xls">XLS</label>
+</div>
+<input type="hidden" name="od" value="0">
+<input type="hidden" name="fr" value="top_home">
+<input type="hidden" name="ie" value="gbk">
+</form>
+<div class="sign">
+<img src="//wkstatic.bdimg.com/static/wkbgc/index/images/sign_7219b64.jpg" alt="">
+</div>
+</div>
+</div>
+<style>
+            .search_wrapper {
+                padding: 19px;
+                border-bottom: 3px solid #505767;
+                box-shadow: 0 2px 3px #d8d8d8;
+            }
+        </style>
+
+</div>
+<div id="bd">
+
+<div class="bd-wrap">
+<div class="body">
+
+ <div class="org-head-box">
+<div class="org-head-title" style="">
+</div>
+<div class="org-head-info">
+<div class="org-info-inner-box">
+<div class="org-logo">
+<div>
+<img src="https://gss0.baidu.com/7LsWdDW5_xN3otqbppnN2DJv/doc/pic/item/0b7b02087bf40ad1f79871915b2c11dfa9ecce40.jpg" />
+</div>
+</div>
+<div class="org-info">
+<p class="mb15 title-box">
+<span class="fs22 fc3">�����������Ͽ�</span>
+<span class="title-inner-box pl42">��ҵ��֤</span>
+</p>
+<p class="fs14">�ۺ����֣�<span class="stars full-star"></span><span class="stars full-star"></span><span class="stars full-star"></span><span class="stars empty-star"></span><span class="stars empty-star"></span>&nbsp;&nbsp;<span class="fc96 strong">3.0</span>��(0������)<span><span class="ml28">�ĵ���</span><span class="fc96 strong">&nbsp;1,063,028</span><span class="ml28">�����</span><span class="fc96 strong">&nbsp;1.05��</span><span class="ml28">������</span><span class="fc96 strong">&nbsp;50,599</span></p>
+</div>
+<div class="org-tab" id="org-tab">
+<ul>
+<li class="current"><a href="view?org=fenglingou&tab=0#org-tab" >������ҳ</a></li>
+<li class=""><a href="view?org=fenglingou&tab=1#org-tab" >ȫ���ĵ�</a></li>
+</ul>
+<div class="black-top" style="left:-1px;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-box clearfix">
+<div class="content-left-box">
+<div class="org-intro">
+<div class="subscribe">
+<a href="javascript:void(0)">
+<span class="item icon-add"></span><span class="status org-favo">���Ļ���</span>
+</a>
+</div>
+<h2>�������</h2>
+<div class="org-intro-inner">
+<p class="intro-edu">������ҵ���������</p>
+<div class="intro-cont">
+<span>�������磬�ںϸ�����Ϸ���ԡ����ʶ����ͬ����������д����PPT��ơ��ƻ��顢�߻���������ģ��ȷ������棬����ȫ������һվʽ����
+                           </span>
+</div>
+<div class="org-access clearfix">
+<a class="home-hover" href="http://www.fenglingou.com" target="_blank">
+<span class="org-net">��������</span>
+<i class="home item pos"></i>
+</a>
+</div>
+</div>
+</div>
+<div class="doc-menu clearfix">
+<ul>
+<li class="menu-list"><span class="icon-show"></span><a href="view?org=fenglingou&tab=1&cid=0#org-tab">ȫ���ĵ�<span class="count">��1063028��</span></a></li>
+<li class="menu-list"><span class="icon-show"></span><a href="view?org=fenglingou&tab=1&cid=3#org-tab">רҵ����<span class="count">��545881��</span></a></li>
+<li class="menu-list"><span class="icon-show"></span><a href="view?org=fenglingou&tab=1&cid=175#org-tab">�������<span class="count">��381493��</span></a></li>
+<li class="menu-list"><span class="icon-show"></span><a href="view?org=fenglingou&tab=1&cid=65#org-tab">��������<span class="count">��377212��</span></a></li>
+<li class="menu-list"><span class="icon-show"></span><a href="view?org=fenglingou&tab=1&cid=63#org-tab">IT/�����<span class="count">��296882��</span></a></li>
+<li class="menu-list"><span class="icon-show"></span><a href="view?org=fenglingou&tab=1&cid=161#org-tab">����������Ӧ��<span class="count">��295417��</span></a></li>
+<li class="menu-list"><span class="icon-show"></span><a href="view?org=fenglingou&tab=1&cid=64#org-tab">����Ӫ��<span class="count">��238223��</span></a></li>
+<li class="menu-list"><span class="icon-show"></span><a href="view?org=fenglingou&tab=1&cid=146#org-tab">����/�г�<span class="count">��236801��</span></a></li>
+<li class="menu-list"><span class="icon-show"></span><a href="view?org=fenglingou&tab=1&cid=5#org-tab">ʵ���ĵ�<span class="count">��71662��</span></a></li>
+</ul>
+<a href="view?org=fenglingou&tab=1#org-tab" class="more" >����>></a>
+</div>
+<div class="hot-doc-rank">
+<h2>�����ĵ����а�</h2>
+<ul>
+<li>
+<span class="current">1</span>
+<p class="title"><a href="/view/bba37bb5690203d8ce2f0066f5335a8102d266d0" target="_blank" title="��ʷ���к���Ϊ�����С���ɫС˵��">��ʷ���к���Ϊ������...</a></p>
+<p class="view-count">�������<b>179675</b></p>
+</li>
+<li>
+<span >2</span>
+<p class="title"><a href="/view/208fd051580102020740be1e650e52ea5518ce91" target="_blank" title="�й���ѧʷ�Ͽ�ǰ�����һ����ɫС˵">�й���ѧʷ�Ͽ�ǰ����...</a></p>
+<p class="view-count">�������<b>132136</b></p>
+</li>
+<li>
+<span >3</span>
+<p class="title"><a href="/view/0af5a5127ed5360cba1aa8114431b90d6c8589e6" target="_blank" title="����ߣ�ܵ�Σ������Щ��">����ߣ�ܵ�Σ������Щ...</a></p>
+<p class="view-count">�������<b>93077</b></p>
+</li>
+<li>
+<span >4</span>
+<p class="title"><a href="/view/28b35877e418964bcf84b9d528ea81c758f52eda" target="_blank" title="2018�꾯ʾ�����ĵ������ƪ">2018�꾯ʾ�����ĵ���...</a></p>
+<p class="view-count">�������<b>86883</b></p>
+</li>
+<li>
+<span >5</span>
+<p class="title"><a href="/view/7c99dcc705a1b0717fd5360cba1aa81144318ffe" target="_blank" title="2018���ʦ������ѵ�ĵ����5ƪ">2018���ʦ������ѵ��...</a></p>
+<p class="view-count">�������<b>65779</b></p>
+</li>
+<li>
+<span >6</span>
+<p class="title"><a href="/view/9883a62e2a160b4e767f5acfa1c7aa00b42a9d6e" target="_blank" title="����������������ֹ����">����������������ֹ��...</a></p>
+<p class="view-count">�������<b>64299</b></p>
+</li>
+</ul></div>
+</div>
+<div class="content-right-box">
+<div class="jingpin-doc">
+<div class="doc-inner clearfix">
+<h2>��Ʒ�ĵ�</h2>
+<ul>
+<li>
+<div class="ui-bz-doc"><b class="ic-paydoc"></b>
+<a href="/view/f8bc76ab0408763231126edb6f1aff00bed57021" alt="У����ƹ�������ְ����ѧϰ(12)" target="_blank"><img class="doc-img ui-bz-bg-index " src="//wkretype.bdimg.com/img/2a569002fc4ffe473368ab5f"><span class="ui-bz-bg-hover"></span></a><b class="jingpin-icon"></b><span class="ui-bz-bg-hover"></span>
+</div><p class="doc-title"><a href="/view/f8bc76ab0408763231126edb6f1aff00bed57021" title="У����ƹ�������ְ����ѧϰ(12)"target="_blank">У����ƹ�������ְ��...</a></p>
+</li>
+<li>
+<div class="ui-bz-doc"><b class="ic-paydoc"></b>
+<a href="/view/b2b7dd4c7ed5360cba1aa8114431b90d6c858905" alt="�ڷܺ�ѧѧϰ�̲�PPT�μ�" target="_blank"><img class="doc-img ui-bz-bg-index " src="//wkretype.bdimg.com/img/c354c5c9240c844769eaee49"><span class="ui-bz-bg-hover"></span></a><b class="jingpin-icon"></b><span class="ui-bz-bg-hover"></span>
+</div><p class="doc-title"><a href="/view/b2b7dd4c7ed5360cba1aa8114431b90d6c858905" title="�ڷܺ�ѧѧϰ�̲�PPT�μ�"target="_blank">�ڷܺ�ѧѧϰ�̲�PPT��...</a></p>
+</li>
+<li>
+<div class="ui-bz-doc"><b class="ic-paydoc"></b>
+<a href="/view/15fb8a5fec630b1c59eef8c75fbfc77da26997d2" alt="�������������" target="_blank"><img class="doc-img ui-bz-bg-index " src="//wkretype.bdimg.com/img/38d545da9ec3d5bbfd0a74e8"><span class="ui-bz-bg-hover"></span></a><b class="jingpin-icon"></b><span class="ui-bz-bg-hover"></span>
+</div><p class="doc-title"><a href="/view/15fb8a5fec630b1c59eef8c75fbfc77da26997d2" title="�������������"target="_blank">�������������</a></p>
+</li>
+<li>
+<div class="ui-bz-doc"><b class="ic-paydoc"></b>
+<a href="/view/174128f3d5d8d15abe23482fb4daa58da0111ce6" alt="��ʷȤ̸����Ԫ谰ѿ�����ǽ���� ����ְ�ߵ���������ǽ��" target="_blank"><img class="doc-img ui-bz-bg-index " src="//wkretype.bdimg.com/img/0bfa73363169a4517723a3c7"><span class="ui-bz-bg-hover"></span></a><b class="jingpin-icon"></b><span class="ui-bz-bg-hover"></span>
+</div><p class="doc-title"><a href="/view/174128f3d5d8d15abe23482fb4daa58da0111ce6" title="��ʷȤ̸����Ԫ谰ѿ�����ǽ���� ����ְ�ߵ���������ǽ��"target="_blank">��ʷȤ̸����Ԫ谰ѿ�...</a></p>
+</li>
+<li>
+<div class="ui-bz-doc"><b class="ic-paydoc"></b>
+<a href="/view/05865a3a26284b73f242336c1eb91a37f11132a7" alt="�������鼮��40����ת�ƶ�Ӫ����ppt����ʼ�" target="_blank"><img class="doc-img ui-bz-bg-index " src="//wkretype.bdimg.com/img/3a374e4af01dc281e43af00f"><span class="ui-bz-bg-hover"></span></a><b class="jingpin-icon"></b><span class="ui-bz-bg-hover"></span>
+</div><p class="doc-title"><a href="/view/05865a3a26284b73f242336c1eb91a37f11132a7" title="�������鼮��40����ת�ƶ�Ӫ����ppt����ʼ�"target="_blank">�������鼮��40����ת...</a></p>
+</li>
+<li>
+<div class="ui-bz-doc"><b class="ic-paydoc"></b>
+<a href="/view/97fbe257effdc8d376eeaeaad1f34693dbef1011" alt="ԭ���Էΰ�ʳ��ҩ�ž�ѡ" target="_blank"><img class="doc-img ui-bz-bg-index " src="//wkretype.bdimg.com/img/563f0198b9d528ea81c77994"><span class="ui-bz-bg-hover"></span></a><b class="jingpin-icon"></b><span class="ui-bz-bg-hover"></span>
+</div><p class="doc-title"><a href="/view/97fbe257effdc8d376eeaeaad1f34693dbef1011" title="ԭ���Էΰ�ʳ��ҩ�ž�ѡ"target="_blank">ԭ���Էΰ�ʳ��ҩ�ž�...</a></p>
+</li>
+<li>
+<div class="ui-bz-doc"><b class="ic-paydoc"></b>
+<a href="/view/4756e06fa200a6c30c22590102020740be1ecde3" alt="���Ƽ���ְ�ݽ���" target="_blank"><img class="doc-img ui-bz-bg-index " src="//wkretype.bdimg.com/img/9f45fac05022aaea988f0f14"><span class="ui-bz-bg-hover"></span></a><b class="jingpin-icon"></b><span class="ui-bz-bg-hover"></span>
+</div><p class="doc-title"><a href="/view/4756e06fa200a6c30c22590102020740be1ecde3" title="���Ƽ���ְ�ݽ���"target="_blank">���Ƽ���ְ�ݽ���</a></p>
+</li>
+<li>
+<div class="ui-bz-doc"><b class="ic-paydoc"></b>
+<a href="/view/3b3f7641e97101f69e3143323968011ca300f790" alt="��ҵ�����˾�ΰ���ȫ�����ܽ᷶��ѧϰ�ο�(word��ʽ)" target="_blank"><img class="doc-img ui-bz-bg-index " src="//wkretype.bdimg.com/img/9ee14f68a417866fb84a8eec"><span class="ui-bz-bg-hover"></span></a><b class="jingpin-icon"></b><span class="ui-bz-bg-hover"></span>
+</div><p class="doc-title"><a href="/view/3b3f7641e97101f69e3143323968011ca300f790" title="��ҵ�����˾�ΰ���ȫ�����ܽ᷶��ѧϰ�ο�(word��ʽ)"target="_blank">��ҵ�����˾�ΰ���ȫ...</a></p>
+</li>
+<li>
+<div class="ui-bz-doc"><b class="ic-paydoc"></b>
+<a href="/view/bba37bb5690203d8ce2f0066f5335a8102d266d0" alt="��ʷ���к���Ϊ�����С���ɫС˵��" target="_blank"><img class="doc-img ui-bz-bg-index " src="//wkretype.bdimg.com/img/b87e2b9dbceb19e8b8f6bac6"><span class="ui-bz-bg-hover"></span></a><b class="jingpin-icon"></b><span class="ui-bz-bg-hover"></span>
+</div><p class="doc-title"><a href="/view/bba37bb5690203d8ce2f0066f5335a8102d266d0" title="��ʷ���к���Ϊ�����С���ɫС˵��"target="_blank">��ʷ���к���Ϊ������...</a></p>
+</li>
+<li>
+<div class="ui-bz-doc"><b class="ic-paydoc"></b>
+<a href="/view/208fd051580102020740be1e650e52ea5518ce91" alt="�й���ѧʷ�Ͽ�ǰ�����һ����ɫС˵" target="_blank"><img class="doc-img ui-bz-bg-index " src="//wkretype.bdimg.com/img/b4ef82baf524ccbff0218411"><span class="ui-bz-bg-hover"></span></a><b class="jingpin-icon"></b><span class="ui-bz-bg-hover"></span>
+</div><p class="doc-title"><a href="/view/208fd051580102020740be1e650e52ea5518ce91" title="�й���ѧʷ�Ͽ�ǰ�����һ����ɫС˵"target="_blank">�й���ѧʷ�Ͽ�ǰ����...</a></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="new-update">
+<div class="upload">
+<span class="upload-chreck-more"><a href="view?org=fenglingou&tab=1#org-tab" >�鿴����>></a></span>
+<h2>�����ϴ�</h2>
+<div class="upload-inner clearfix">
+<ul>
+<li>
+<div class="ui-bz-doc small"><a href="/view/e0dc4a21a55177232f60ddccda38376bae1fe011" target="_blank"><img src="//wkretype.bdimg.com/img/7e6f7053fe4733687e21aa88">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/e0dc4a21a55177232f60ddccda38376bae1fe011" title="����������ƹ���ppt" target="_blank">����������ƹ���ppt</a></p>
+<p class="upload-time">2018-07-28</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/9de17006777f5acfa1c7aa00b52acfc788eb9f11" target="_blank"><img src="//wkretype.bdimg.com/img/d12fbd373169a4517723a388">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/9de17006777f5acfa1c7aa00b52acfc788eb9f11" title="�Ͷ���ϵppt" target="_blank">�Ͷ���ϵppt</a></p>
+<p class="upload-time">2018-07-28</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/29a68b55c381e53a580216fc700abb68a882ad11" target="_blank"><img src="//wkretype.bdimg.com/img/dd9834ea7c1cfad6195fa788">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/29a68b55c381e53a580216fc700abb68a882ad11" title="������Ӱ�̳�ppt" target="_blank">������Ӱ�̳�ppt</a></p>
+<p class="upload-time">2018-07-28</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/e47c4e7d66ec102de2bd960590c69ec3d5bbdb39" target="_blank"><img src="//wkretype.bdimg.com/img/6333274df01dc281e43af002">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/e47c4e7d66ec102de2bd960590c69ec3d5bbdb39" title="��ҵ���������ϵѧϰPPT�μ�" target="_blank">��ҵ���������ϵѧϰ...</a></p>
+<p class="upload-time">2018-07-28</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/c229652e1fd9ad51f01dc281e53a580216fc5036" target="_blank"><img src="//wkretype.bdimg.com/img/b5047fc5ad51f01dc281f17a">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/c229652e1fd9ad51f01dc281e53a580216fc5036" title="��ҵ��˾��ȫ��ѵPPT" target="_blank">��ҵ��˾��ȫ��ѵPPT</a></p>
+<p class="upload-time">2018-07-28</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/7d7bee2e49d7c1c708a1284ac850ad02de800736" target="_blank"><img src="//wkretype.bdimg.com/img/161d0d7e27d3240c8447ef81">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/7d7bee2e49d7c1c708a1284ac850ad02de800736" title="������Դ����֮������Ƹ����ѡ�˲�ppt" target="_blank">������Դ����֮������...</a></p>
+<p class="upload-time">2018-07-28</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/f41c0c1e3d1ec5da50e2524de518964bcf84d20f" target="_blank"><img src="//wkretype.bdimg.com/img/6a2114dfd5bbfd0a78567301">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/f41c0c1e3d1ec5da50e2524de518964bcf84d20f" title="�����������µ�������������ҵ��������ppt" target="_blank">�����������µ�������...</a></p>
+<p class="upload-time">2018-07-28</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/90d1ca9db8f3f90f76c66137ee06eff9aff84948" target="_blank"><img src="//wkretype.bdimg.com/img/89a422896bec0975f565e206">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/90d1ca9db8f3f90f76c66137ee06eff9aff84948" title="��ҵ���ҵ��ϵ���׷���ppt�μ�" target="_blank">��ҵ���ҵ��ϵ���׷�...</a></p>
+<p class="upload-time">2018-07-28</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/17bba92b876fb84ae45c3b3567ec102de3bddf5b" target="_blank"><img src="//wkretype.bdimg.com/img/12931fd90c22590102029dab">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/17bba92b876fb84ae45c3b3567ec102de3bddf5b" title="������ѧϰ�μ�PPT" target="_blank">������ѧϰ�μ�PPT</a></p>
+<p class="upload-time">2018-05-11</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/0def517bbf1e650e52ea551810a6f524cdbfcb79" target="_blank"><img src="//wkretype.bdimg.com/img/2a7606cc195f312b3169a580">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/0def517bbf1e650e52ea551810a6f524cdbfcb79" title="2018��������ʾ��Ŀ������ܱ���PPTģ��" target="_blank">2018��������ʾ��Ŀ��...</a></p>
+<p class="upload-time">2018-05-08</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="doc-recommend">
+<div class="recommend-outer">
+<span class="upload-chreck-more"><a href="view?org=fenglingou&tab=1#org-tab" >�鿴����>></a></span>
+<h2>רҵ����</h2>
+<div class="recommend-inner">
+<ul>
+<li>
+<div class="ui-bz-doc small"><a href="/view/a920fc6f58eef8c75fbfc77da26925c52cc591e6" target="_blank"><img src="//wkretype.bdimg.com/img/5a8c437bf5335a8102d220c5" width="110" height="140">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/a920fc6f58eef8c75fbfc77da26925c52cc591e6" target="_blank" title="˾��֮ܲ�� �������Ӿ������»ʺ��Ŵ���">˾��֮ܲ�� �������Ӿ���...</a></p>
+<p class="viewer-counter">�����<span>199</span>��</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/3cd67219571252d380eb6294dd88d0d233d43ce2" target="_blank"><img src="//wkretype.bdimg.com/img/a53dc451e518964bcf847cf9" width="110" height="140">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/3cd67219571252d380eb6294dd88d0d233d43ce2" target="_blank" title="��ʷȤ̸����ʷ����ʵ�������ж�ţ��Ӻ��Ϊ������һ����">��ʷȤ̸����ʷ����ʵ��...</a></p>
+<p class="viewer-counter">�����<span>198</span>��</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/53568952ae45b307e87101f69e3143323968f5e3" target="_blank"><img src="//wkretype.bdimg.com/img/bd91002f3968011ca30091b8" width="110" height="140">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/53568952ae45b307e87101f69e3143323968f5e3" target="_blank" title="��ʷȤ̸�������ô���� ��ʷ�϶���С������ߵ���������">��ʷȤ̸�������ô����...</a></p>
+<p class="viewer-counter">�����<span>175</span>��</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/da108406a517866fb84ae45c3b3567ec102ddce0" target="_blank"><img src="//wkretype.bdimg.com/img/394882da08a1284ac85043b9" width="110" height="140">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/da108406a517866fb84ae45c3b3567ec102ddce0" target="_blank" title="����Ӣѧ��һ�־��� �����Ӵ��벻������">����Ӣѧ��һ�־��� ����...</a></p>
+<p class="viewer-counter">�����<span>104</span>��</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/7715662c814d2b160b4e767f5acfa1c7aa0082e0" target="_blank"><img src="//wkretype.bdimg.com/img/2eb2a1a0960590c69ec376b9" width="110" height="140">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/7715662c814d2b160b4e767f5acfa1c7aa0082e0" target="_blank" title="�����ձ���ɽ��� ���������ĺ�ɫ�ձ����">�����ձ���ɽ��� ������...</a></p>
+<p class="viewer-counter">�����<span>204</span>��</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/d48b92bd0408763231126edb6f1aff00bed570e1" target="_blank"><img src="//wkretype.bdimg.com/img/b0745af5b8f67c1cfad6b8b9" width="110" height="140">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/d48b92bd0408763231126edb6f1aff00bed570e1" target="_blank" title="��������������׼��ʲô">��������������׼��ʲô</a></p>
+<p class="viewer-counter">�����<span>146</span>��</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/d9ee81d10129bd64783e0912a216147917117ee1" target="_blank"><img src="//wkretype.bdimg.com/img/5a208460a26925c52cc5bfb9" width="110" height="140">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/d9ee81d10129bd64783e0912a216147917117ee1" target="_blank" title="��ʷȤ̸���γ�����������˭ ���������������ʲô��ϵ��">��ʷȤ̸���γ���������...</a></p>
+<p class="viewer-counter">�����<span>182</span>��</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/622340450a4c2e3f5727a5e9856a561252d321e1" target="_blank"><img src="//wkretype.bdimg.com/img/107209e304a1b0717fd5ddb9" width="110" height="140">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/622340450a4c2e3f5727a5e9856a561252d321e1" target="_blank" title="������ɤ����̵�Ĵ������">������ɤ����̵�Ĵ����...</a></p>
+<p class="viewer-counter">�����<span>128</span>��</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/3f30733468eae009581b6bd97f1922791688bee1" target="_blank"><img src="//wkretype.bdimg.com/img/f4c6b465168884868762d6f9" width="110" height="140">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/3f30733468eae009581b6bd97f1922791688bee1" target="_blank" title="ѧ����ôд���Ҽ���">ѧ����ôд���Ҽ���</a></p>
+<p class="viewer-counter">�����<span>1863</span>��</p>
+</li>
+<li>
+<div class="ui-bz-doc small"><a href="/view/ed59d0a0250c844769eae009581b6bd97f19bce1" target="_blank"><img src="//wkretype.bdimg.com/img/db58222aee06eff9aef807be" width="110" height="140">
+<span class="ui-bz-bg-hover"></span>
+</a>
+</div>
+<p class="title"><a href="/view/ed59d0a0250c844769eae009581b6bd97f19bce1" target="_blank" title="�������ϡ�Ƶ�ԭ��">�������ϡ�Ƶ�ԭ��</a></p>
+<p class="viewer-counter">�����<span>158</span>��</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<a href="view?org=fenglingou&tab=1#org-tab" class="check-all" >
+<p>�鿴ȫ���ĵ�<span></span></p>
+</a>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div id="ft">
+
+<div class="footer">
+<p>
+<span class="cr">&copy;2018&nbsp;Baidu</span>&nbsp;<span>|&nbsp;��&nbsp;�ٶ���&nbsp;�ṩ�������</span>&nbsp;|&nbsp;<a href="http://www.baidu.com/duty/" class="Bidu" target="_blank">ʹ�ðٶ�ǰ�ض�</a>&nbsp;|&nbsp;<a href="https://wenku.baidu.com/portal/browse/help#help/24" class="Xieyi" target="_blank">�Ŀ�Э��</a>&nbsp;|&nbsp;<a href="https://jiaoyu.baidu.com/topic/bsplatform/brand_promotion" class="Xieyi" target="_blank">������</a>&nbsp;|&nbsp;<a href="https://jiaoyu.baidu.com/topic/bsplatform/institutional_database" class="Xieyi" target="_blank">��ҵ�Ŀ�</a>&nbsp;|&nbsp;<a href="/portal/browse/websitemap" class="Xieyi" target="_blank">��վ��ͼ</a>
+</p>
+</div>
+
+</div>
+
+<script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd8bfb560f8d03bbefc9bdecafc4a4bf6' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+
+
+</body><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/modjs/mod_21fbee4.js"></script><script type="text/javascript">require.resourceMap({"res":{"wkbgc:widget\/ui\/menu_aim\/menu_aim.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkbgc\/widget\/ui\/menu_aim\/menu_aim_b1e6098.js","deps":["wkcommon:widget\/ui\/lib\/jquery\/jquery.js"]},"wkbgc:widget\/ui\/share_box\/share_box.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkbgc\/widget\/ui\/share_box\/share_box_c4807a3.js","deps":["wkcommon:widget\/lib\/tangram\/base\/base.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/js_core\/widget\/widget.js","wkcommon:widget\/ui\/js_core\/qrcode\/qrcode.js"]}},"pkg":null});</script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/pkg/pkg_wkcommon_lib_67a6f6e.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/ui/flashFactory/flashFactory_7ca31b3.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/ui/lib/jquery_xdomainrequest/xdomainrequest_adc6083.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/header/search_box/sug_6c7bcef.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/feedback/feedback_345ce50.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/pkg/pkg_wkcommon_base_ee2dcdd.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/sessionX/sessionX_bf051b5.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkbgc/widget/org/left-intro/left-intro_f58e60e.js"></script><script type="text/javascript">
+!function(){    var $ = require('wkcommon:widget/ui/lib/jquery/jquery.js');
+    var sessionX = require('wkcommon:widget/sessionX/sessionX.js');
+    var sessionXMgr = sessionX.sessionXMgr;
+    var urlParam = sessionXMgr.getUrlParam();
+    window.wkCommonLogParam = typeof window.wkCommonLogParam === 'object'
+        ? window.wkCommonLogParam : {};
+    $.extend(true, window.wkCommonLogParam, {
+        '_sessionx_url_param': JSON.stringify(urlParam)
+    });
+}();
+!function(){    require.async(['wkcommon:widget/lib/fis/data/data.js', 'wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/user_bar/user_bar.js'], function (Data, $) {
+        Data.set('isPgcPop', '');
+        Data.set('smallFlow',true);
+        $( '#reg' ).attr( 'href', 'https://passport.baidu.com/v2/?reg&tpl=do&u=' + encodeURIComponent( location.href ) );
+    });
+}();
+!function(){    window.escapeSymbol=function(e){return String(e).replace(/[#%&+=\/\\\ \u3000\f\r\n\t]/g,function(e){return"%"+(256+e.charCodeAt()).toString(16).substring(1).toUpperCase()})},window.setHeadUrl=function(e){if(document.getElementById("kw").value){var t=new RegExp("[?]");if(!t.test(e.href)){var r=e.href;e.href=e.getAttribute("data-href"),e.setAttribute("data-href",r)}e.href=e.href.replace("?newmap=1&ie=utf-8&s=s%26wd%3D","?newmap=1&ie=utf-8&s=s&wd="),e.href=e.href.replace(new RegExp("("+e.getAttribute("wdfield")+"=)[^&]*"),"$1"+encodeURIComponent(document.getElementById("kw").value)).replace("?newmap=1&ie=utf-8&s=s&wd=","?newmap=1&ie=utf-8&s=s%26wd%3D"),e.href=e.href.replace(new RegExp("("+e.getAttribute("wdfield")+"=)[^&]*"),"$1"+window.escapeSymbol(document.getElementById("kw").value))
+}else{var t=new RegExp("[?]");if(t.test(e.href)){var r=e.href;e.href=e.getAttribute("data-href"),e.setAttribute("data-href",r)}}};;
+    }();
+!function(){    require.async(['wkcommon:widget/ui/js_core/log/log.js', 'wkcommon:widget/ui/lib/jquery/jquery.js'], function(Log, $){
+        $('.org-head-box .more-data').on('click', function(){
+            Log.xsend(1, 100360, {index:5});
+        });
+    });
+    }();
+!function(){require.async(['wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/lib/fis/data/data.js', 'wkbgc:widget/org/left-intro/left-intro.js'],function($, Data, L){
+    Data.set('basicInfo', $.parseJSON('{\x22orgTitle\x22:\x22\\u98ce\\u6797\\u7f51\\u7edc\\u8d44\\u6599\\u5e93\x22,\x22orgLink\x22:\x22http:\\\/\\\/www.fenglingou.com\x22,\x22orgSum\x22:\x22\\u98ce\\u6797\\u7f51\\u7edc\\uff0c\\u878d\\u5408\\u5404\\u5927\\u6e38\\u620f\\u653b\\u7565\\u3001\\u751f\\u6d3b\\u5e38\\u8bc6\\u3001\\u5408\\u540c\\u7b80\\u5386\\u3001\\u8bba\\u6587\\u5199\\u4f5c\\u3001PPT\\u8bbe\\u8ba1\\u3001\\u8ba1\\u5212\\u4e66\\u3001\\u7b56\\u5212\\u6848\\u3001\\u5404\\u7c7b\\u6a21\\u677f\\u7b49\\u65b9\\u65b9\\u9762\\u9762\\uff0c\\u6253\\u9020\\u5168\\u7f51\\u653b\\u7565\\u4e00\\u7ad9\\u5f0f\\u9700\\u6c42\\u3002\\r\\n                           \x22,\x22orgEnName\x22:\x22fenglingou\x22,\x22orgLogo\x22:\x22https:\\\/\\\/gss0.baidu.com\\\/7LsWdDW5_xN3otqbppnN2DJv\\\/doc\\\/pic\\\/item\\\/f2deb48f8c5494eef577b96b21f5e0fe99257e6e.jpg\x22,\x22sorgLogo\x22:\x22https:\\\/\\\/gss0.baidu.com\\\/7LsWdDW5_xN3otqbppnN2DJv\\\/doc\\\/pic\\\/item\\\/0b7b02087bf40ad1f79871915b2c11dfa9ecce40.jpg\x22,\x22is_focus\x22:\x22\x22,\x22vuser_number\x22:\x220\x22,\x22lesson_num\x22:\x220\x22,\x22book_count\x22:\x220\x22,\x22weibo\x22:\x22\x22,\x22page_summary\x22:\x22\x22,\x22all_doc_count\x22:\x221063028\x22,\x22view_count\x22:\x221.05\\u4ebf\x22,\x22download_count\x22:\x2250599\x22,\x22value_count\x22:\x220\x22,\x22value_score\x22:\x223\x22,\x22org_business\x22:\x22\\u751f\\u6d3b\\u79d1\\u666e\x22,\x22org_type\x22:\x22\\u4f01\\u4e1a\x22}'));
+    /*console.log('Array');*/
+    L.subscribe._init();
+});
+}();
+!function(){		require.async(['wkbgc:widget/ui/share_box/share_box.js', 'wkcommon:widget/ui/js_core/log/log.js'], function(S, log){
+			new S.share_box({'orgname' : '�����������Ͽ�'});
+			log.xsend(1, 100276);
+		});
+	}();
+!function(){    require.async(["wkcommon:widget/360tip/360tip.js"],function(e){var r=e.showTopTip,t={referer:""};new r(t).create()});;
+}();
+!function(){    require.async(["wkcommon:widget/ui/lib/jquery/jquery.js", "wkcommon:widget/lib/tangram/base/base.js"],function(e,t){var i=e("title").html();8083!==+location.port||t.url.getQueryValue(location.href,"seotest")||(i.indexOf("\u767e\u5ea6\u6587\u5e93")<0&&i.indexOf("\u7cbe\u54c1\u6587\u5e93")<0&&alert('title\u672a\u5305\u542b\u201c\u767e\u5ea6\u6587\u5e93\u201d\u6216\u8005\u201c\u7cbe\u54c1\u6587\u5e93\u201d"\uff0c\u8bf7\u8865\u5145'),i.match(/\\uff1a|,|\\uff0c|\*|&|\u2026|%|@|#|\u300a|\u300b|\u201c|\u201d|\u2018|\u2019|\u3002|\uff01|\xb7/g)&&alert("title\u5305\u542b\uff1a,\uff0c*&\u2026\u2026%@#\u300a\u300b\u201c\u201d\u2018\u2019\u3002\uff01\xb7\u7b26\u53f7\uff0c\u9700\u53bb\u6389"))
+});;
+}();
+</script></html>
+

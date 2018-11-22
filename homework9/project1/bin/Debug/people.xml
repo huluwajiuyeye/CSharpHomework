@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfOrderDetail xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OrderDetail>
+    <id>123</id>
+    <name>苹果</name>
+    <customer>周星齐</customer>
+    <money>100</money>
+    <phonenumber>15629082232</phonenumber>
+    <ordernumber>20181114001</ordernumber>
+  </OrderDetail>
+  <OrderDetail>
+    <id>214</id>
+    <name>鸡蛋</name>
+    <customer>周星齐</customer>
+    <money>150</money>
+    <phonenumber>15629082232</phonenumber>
+    <ordernumber>20181114002</ordernumber>
+  </OrderDetail>
+  <OrderDetail>
+    <id>001</id>
+    <name>征战者</name>
+    <customer>啧啧啧</customer>
+    <money>123</money>
+    <phonenumber>13111111111</phonenumber>
+    <ordernumber>20181115001</ordernumber>
+  </OrderDetail>
+  <OrderDetail>
+    <id>001</id>
+    <name>征战者</name>
+    <customer>啧啧啧</customer>
+    <money>12</money>
+    <phonenumber>13111111111</phonenumber>
+    <ordernumber>20181115002</ordernumber>
+  </OrderDetail>
+</ArrayOfOrderDetail>

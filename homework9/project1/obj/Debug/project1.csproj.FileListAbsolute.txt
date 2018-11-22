@@ -1,0 +1,13 @@
+C:\Users\abc\source\repos\homework7\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+C:\Users\abc\source\repos\homework7\project1\obj\Debug\project1.Form1.resources
+C:\Users\abc\source\repos\homework7\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\abc\source\repos\homework7\project1\obj\Debug\project1.csproj.GenerateResource.Cache
+C:\Users\abc\source\repos\homework7\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\homework7\project1\bin\Debug\project1.exe.config
+C:\Users\abc\source\repos\homework7\project1\bin\Debug\project1.exe
+C:\Users\abc\source\repos\homework7\project1\bin\Debug\project1.pdb
+C:\Users\abc\source\repos\homework7\project1\obj\Debug\project1.exe
+C:\Users\abc\source\repos\homework7\project1\obj\Debug\project1.pdb
+C:\Users\abc\source\repos\homework7\project1\obj\Debug\project1.newlist.resources
+C:\Users\abc\source\repos\homework7\project1\obj\Debug\project1.deletelist.resources
+C:\Users\abc\source\repos\homework7\project1\obj\Debug\project1.fixlist.resources
